@@ -1,0 +1,7 @@
+{
+  "name": "MoviReco",
+  "description": "A high-end movie recommendation platform powered by Gemini AI, featuring a cinematic Netflix-inspired interface with intelligent discovery and personalized AI advising.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
